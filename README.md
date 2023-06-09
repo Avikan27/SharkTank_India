@@ -7,7 +7,10 @@ Welcome to the repository for my project on Shark Tank India! This project focus
 The main objective of this project is to prepare a data visualization dashboard that showcases the Shark Tank India dataset sourced from Kaggle. By leveraging the power of data analysis and visualization, I aim to provide in-depth insights into the 320 pitches from both seasons of the show.
 
 ## Dataset Information
-The dataset includes comprehensive information on each pitch, encompassing the pitchers' demographics, company names, industry classifications, sharks' investments, ask prices, deal amounts, equity stakes, and more. To ensure data accuracy and integrity, I followed the RITEC approach (reduction, integration, transformation, enrichment, cleaning) using MS Excel and Power BI.
+The dataset includes comprehensive information on each pitch, encompassing the pitchers' demographics, company names, industry classifications, sharks' investments, ask prices, deal amounts, equity stakes, and more.
+
+## Data Preparation 
+Data preparation for this project involved applying the RITEC methodology, which includes reduction, integration, transformation, enrichment, and cleaning steps. I performed these steps using both Excel and Power BI to ensure the dataset's accuracy and integrity. The RITEC approach helped streamline and optimize the data for further analysis and visualization.
 
 ## Data Visualizations
 Using the powerful visualization capabilities of Power BI, I created an interactive dashboard that allows users to explore the dataset with ease. The dashboard offers a range of visuals and filters, enabling users to analyze the pitches based on seasons, industry categories, and various other dimensions. Additionally, I utilized DAX functions to derive new measures for enhanced visualizations and deeper analysis.
@@ -17,4 +20,4 @@ To explore the interactive report, simply download or clone this repository and 
 
 Feel free to contribute, provide feedback, or suggest improvements to enhance the project further.
 
-Let's dive into the exciting world of Shark Tank India and gain valuable insights into the pitches, investments, and industry dynamics!
+
