@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.shopify.com/s/files/1/0587/1036/0271/t/8/assets/shark-tank-collection-banner_desktop-(2)16765556615562.png?v=1676555665)
+![MasterHead](https://cdn.shopify.com/s/files/1/0587/1036/0271/t/8/assets/shark-tank-collection-banner_desktop-(2)16765556615562.png?v=1676555665)
 # 🔍 Discover Fascinating Insights on Shark Tank India🦈🚀
 
 Welcome to the repository for my project on Shark Tank India! This project focuses on analyzing the captivating entrepreneurial reality show by creating an interactive report using MS Excel and Power BI.
