@@ -1,3 +1,20 @@
-# SharkTank_India_EDA
+[![MasterHead](https://cdn.shopify.com/s/files/1/0587/1036/0271/t/8/assets/shark-tank-collection-banner_desktop-(2)16765556615562.png?v=1676555665)
+# 🔍 Discover Fascinating Insights on Shark Tank India🦈🚀
 
-The dataset included contains the pitch data from both the seasons of shark tank India. Total pitches of 320 with various attributes such as satrtup_name, presenters_age, gender, deal_amount, valuation etc. The dataset was further processed for data reduction and normalizing> Imported into PowerBI as two individual reports with the primary key being Pitch_number. The analysis answers individual interest questions and gives an overall view of how the show perfromed.
+Welcome to the repository for my project on Shark Tank India! This project focuses on analyzing the captivating entrepreneurial reality show by creating an interactive report using MS Excel and Power BI.
+
+## Objective
+The main objective of this project is to prepare a data visualization dashboard that showcases the Shark Tank India dataset sourced from Kaggle. By leveraging the power of data analysis and visualization, I aim to provide in-depth insights into the 320 pitches from both seasons of the show.
+
+## Dataset Information
+The dataset includes comprehensive information on each pitch, encompassing the pitchers' demographics, company names, industry classifications, sharks' investments, ask prices, deal amounts, equity stakes, and more. To ensure data accuracy and integrity, I followed the RITEC approach (reduction, integration, transformation, enrichment, cleaning) using MS Excel and Power BI.
+
+## Data Visualizations
+Using the powerful visualization capabilities of Power BI, I created an interactive dashboard that allows users to explore the dataset with ease. The dashboard offers a range of visuals and filters, enabling users to analyze the pitches based on seasons, industry categories, and various other dimensions. Additionally, I utilized DAX functions to derive new measures for enhanced visualizations and deeper analysis.
+
+## How to Use
+To explore the interactive report, simply download or clone this repository and open the Power BI file provided. Once opened, you can interact with the visuals, apply filters, and uncover fascinating insights about Shark Tank India.
+
+Feel free to contribute, provide feedback, or suggest improvements to enhance the project further.
+
+Let's dive into the exciting world of Shark Tank India and gain valuable insights into the pitches, investments, and industry dynamics!
