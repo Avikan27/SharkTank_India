@@ -13,7 +13,7 @@ The dataset includes comprehensive information on each pitch, encompassing the p
 Data preparation for this project involved applying the RITEC methodology, which includes reduction, integration, transformation, enrichment, and cleaning steps. I performed these steps using both Excel and Power BI to ensure the dataset's accuracy and integrity. The RITEC approach helped streamline and optimize the data for further analysis and visualization.
 
 ## Data Visualizations
-Using the powerful visualization capabilities of Power BI, I created an interactive dashboard that allows users to explore the dataset with ease. The dashboard offers a range of visuals and filters, enabling users to analyze the pitches based on seasons, industry categories, and various other dimensions. Additionally, I utilized DAX functions to derive new measures for enhanced visualizations and deeper analysis.
+Using the powerful visualization capabilities of Power BI, I created an interactive report that allows users to explore the dataset with ease. The report offers a range of visuals and filters, enabling users to analyze the pitches based on seasons, industry categories, and various other dimensions. Additionally, I utilized DAX functions to derive new measures for enhanced visualizations and deeper analysis.
 
 ## How to Use
 To explore the interactive report, simply download or clone this repository and open the Power BI file provided. Once opened, you can interact with the visuals, apply filters, and uncover fascinating insights about Shark Tank India.
